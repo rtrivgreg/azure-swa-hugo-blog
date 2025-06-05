@@ -5,7 +5,7 @@
 #region=AZURE_REGION_TO_USE # e.g. eastus
 website_name=raymondgregoirecom # e.g. 10bitpodcastcom
 region=eastus2 # e.g. eastus
-#fred
+#fred######
 ## Log in with Azure CLI and select a subscription
 #az login
 az account set -s ed48e3e9-0fad-4a16-bbf6-0b51cdfd529a
