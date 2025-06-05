@@ -35,7 +35,7 @@ resource "azurerm_static_site_custom_domain" "txt" {
   domain_name     = var.website_name
   validation_type = "dns-txt-token"
 }
-
+ 
 # Azure DNS
 
 resource "azurerm_dns_zone" "swa" {
